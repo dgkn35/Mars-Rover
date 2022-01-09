@@ -1,0 +1,16 @@
+C:\Users\dogukan_sever\source\repos\HepsiTest\HepsiTest\bin\Debug\net5.0\HepsiTest.exe
+C:\Users\dogukan_sever\source\repos\HepsiTest\HepsiTest\bin\Debug\net5.0\HepsiTest.deps.json
+C:\Users\dogukan_sever\source\repos\HepsiTest\HepsiTest\bin\Debug\net5.0\HepsiTest.runtimeconfig.json
+C:\Users\dogukan_sever\source\repos\HepsiTest\HepsiTest\bin\Debug\net5.0\HepsiTest.runtimeconfig.dev.json
+C:\Users\dogukan_sever\source\repos\HepsiTest\HepsiTest\bin\Debug\net5.0\HepsiTest.dll
+C:\Users\dogukan_sever\source\repos\HepsiTest\HepsiTest\bin\Debug\net5.0\ref\HepsiTest.dll
+C:\Users\dogukan_sever\source\repos\HepsiTest\HepsiTest\bin\Debug\net5.0\HepsiTest.pdb
+C:\Users\dogukan_sever\source\repos\HepsiTest\HepsiTest\obj\Debug\net5.0\HepsiTest.csproj.AssemblyReference.cache
+C:\Users\dogukan_sever\source\repos\HepsiTest\HepsiTest\obj\Debug\net5.0\HepsiTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogukan_sever\source\repos\HepsiTest\HepsiTest\obj\Debug\net5.0\HepsiTest.AssemblyInfoInputs.cache
+C:\Users\dogukan_sever\source\repos\HepsiTest\HepsiTest\obj\Debug\net5.0\HepsiTest.AssemblyInfo.cs
+C:\Users\dogukan_sever\source\repos\HepsiTest\HepsiTest\obj\Debug\net5.0\HepsiTest.csproj.CoreCompileInputs.cache
+C:\Users\dogukan_sever\source\repos\HepsiTest\HepsiTest\obj\Debug\net5.0\HepsiTest.dll
+C:\Users\dogukan_sever\source\repos\HepsiTest\HepsiTest\obj\Debug\net5.0\ref\HepsiTest.dll
+C:\Users\dogukan_sever\source\repos\HepsiTest\HepsiTest\obj\Debug\net5.0\HepsiTest.pdb
+C:\Users\dogukan_sever\source\repos\HepsiTest\HepsiTest\obj\Debug\net5.0\HepsiTest.genruntimeconfig.cache
